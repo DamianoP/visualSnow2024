@@ -30,14 +30,14 @@ This project introduces an innovative computational framework designed to simula
 If you use this code, the framework, or the methodologies described in your research, please cite the official paper:
 
 ```bibtex
-@article{damiano2025novel,
-  author={Damiano, P. and Gervasi, O.},
+@ARTICLE{10858131,
+  author={Perri, Damiano and Gervasi, Osvaldo},
   journal={IEEE Access}, 
   title={A Novel Computational Framework for Visual Snow Syndrome}, 
   year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={10.1109/ACCESS.2025.3536923},
-  keywords={Visualization;Videos;Snow;Noise;Operating systems;Cameras;Internet;Real-time systems;Mobile applications;Browsers;Augmented Reality;Human Computer Interaction;Unity;Visual Snow Syndrome;Virtual Reality}
+  volume={13},
+  pages={23877-23887},
+  keywords={Visualization;Videos;Snow;Noise;Operating systems;Cameras;Internet;Real-time systems;Mobile applications;Browsers;Augmented reality;human computer interaction;unity;visual snow syndrome;virtual reality},
+  doi={10.1109/ACCESS.2025.3536923}
 }
+
